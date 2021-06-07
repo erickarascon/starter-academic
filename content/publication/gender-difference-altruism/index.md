@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0165176518301952
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
