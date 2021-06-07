@@ -26,14 +26,14 @@ interests:
 education:
   courses:
   - course: PhD in Economics
-    institution: University of Essex
-    year: 2012
+    institution: University of Essex, UK
+    year: 2014
   - course: MSc In Economics
-    institution: University College London
-    year: 2009
+    institution: University College London, UK
+    year: 2006
   - course: BA in Economics
-    institution: CIDE
-    year: 2008
+    institution: CIDE, Mexico
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,15 +43,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=yHWK6R0AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://uk.linkedin.com/in/ericka-rascon-9256266
