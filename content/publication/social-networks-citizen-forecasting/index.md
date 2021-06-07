@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://eprints.mdx.ac.uk/24646/1/ERICKARASCONRAMIREZ_Social-Networks-and-Citizen-Election-Forecasting----final-submit-IJF---with-names%20REF.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
