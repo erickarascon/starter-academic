@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*International Journal of Forecasting*"
 publication_short: ""
 
-abstract: Most citizens correctly forecast which party will win a given election, and such forecasts usually have a higher level of accuracy than voter intention polls. How do citizens do it? We argue that social networks are a big part of the answer: much of what we know as citizens comes from our interactions with others. Previous research has considered only indirect characteristics of social networks when analyzing why citizens are good forecasters. We use a unique German survey and consider direct measures of social networks in order to explore their role in election forecasting. We find that three network characteristics -- size, political composition, and frequency of political discussion -- are among the most important variables when predicting the accuracy of citizens' election forecasts.
+abstract: Most citizens correctly forecast which party will win a given election, and such forecasts usually have a higher level of accuracy than voter intention polls. How do citizens do it? We argue that social networks are a big part of the answer: much of what we know as citizens comes from our interactions with others. Previous research has considered only indirect characteristics of social networks when analyzing why citizens are good forecasters. We use a unique German survey and consider direct measures of social networks in order to explore their role in election forecasting. We find that three network characteristics - size, political composition, and frequency of political discussion - are among the most important variables when predicting the accuracy of citizens' election forecasts.
 
 # Summary. An optional shortened abstract.
 summary: 
