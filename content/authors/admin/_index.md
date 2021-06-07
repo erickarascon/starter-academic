@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Ericka Rascon is a senior lecturer in development economics at Middlesex University. Her research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ericka Rascon is a senior lecturer in development economics at Middlesex University. Her research interests include behaviour, family, and development economics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
