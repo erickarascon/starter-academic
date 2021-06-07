@@ -8,7 +8,7 @@ authors:
 
 date: 2018
 
-publication_types: 2
+publication_types: "2"
 
 publication: *Economics Letters*
 
