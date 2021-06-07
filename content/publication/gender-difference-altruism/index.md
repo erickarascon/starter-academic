@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Gender differences in altruism on Mechanical Turk: Expectations and actual behaviour"
 authors:
 - admin
 - Robert Ford
