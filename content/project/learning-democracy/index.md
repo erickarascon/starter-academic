@@ -18,7 +18,7 @@ image:
   name: Follow
   url: https://twitter.com/georgecushen -->
 url_code: ""
-url_pdf: ""
+url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778600"
 url_slides: ""
 url_video: ""
 
